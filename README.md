@@ -1,4 +1,4 @@
 # First
-Hi everyone.Welcomr.
+Hi everyone.Welcome.
 <br>
 First repository and commit.
